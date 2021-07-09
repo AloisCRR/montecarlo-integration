@@ -1,4 +1,4 @@
-# Montecarlo simulation (Integral)
+# Monte Carlo simulation (Integral)
 
 Basic project to test PyQt.
 
